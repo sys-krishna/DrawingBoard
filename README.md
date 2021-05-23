@@ -24,4 +24,4 @@ You are free to make design and architectural choices in this challenge.  We enc
 1. Must be able to run on phones equipped with Android 4.1+.
 2. Must include the 5 basic features and at least one of the additional features.
 
-While we require the app to run on phones, you are encouraged to make the app capable to run on tablets as well.  Rotation is not required, but preferred.  You are free to use Gradle, Maven or other open source tools if you wish to do so.
+While we require the app to run on phones, you are encouraged to make the app capable to run on tablets as well.  Rotation is not required, but preferred.  You are free to use Gradle, Maven or other open source tools if you wish to do so."chuch vi likhi naya " 

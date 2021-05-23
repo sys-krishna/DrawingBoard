@@ -6,7 +6,6 @@ import android.graphics.Path;
 /**
  * This class composes a paint with an associated path object.
  *
- * Created by Mike on 5/19/2015.
  */
 public class PaintPath {
 

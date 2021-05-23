@@ -12,7 +12,7 @@ import android.widget.ListView;
 public class ThicknessSelectActivity extends Activity {
 
     private static final String THICKNESS_INTENT_STR = "com.burkeapps.whiteboard.ThicknessSelectActivity.thickness";
-    private static final int NUM_THICKNESSES = 26;
+    private static final int NUM_THICKNESSES = 10;
     private static Integer[] thicknesses;
 
     ListView listview;
@@ -38,7 +38,7 @@ public class ThicknessSelectActivity extends Activity {
         if(thicknesses == null) {
             thicknesses = new Integer[NUM_THICKNESSES];
             for (int i = 0; i < NUM_THICKNESSES; i++) {
-                thicknesses[i] = 10 + (i * 2);
+                thicknesses[i] = i+1;
             }
         }
         return thicknesses;
